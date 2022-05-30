@@ -1,5 +1,5 @@
 import requests
-v="w"
+v=""
 
 myobj = {'password': v}
 x = requests.post("http://18.132.243.254:8003/", data = myobj)
