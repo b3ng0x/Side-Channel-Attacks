@@ -17,7 +17,7 @@ while True:
         x = requests.post("http://18.132.243.254:8003/", data = myobj)
         tt=x.elapsed.total_seconds()
         
-        if tt > t+0.1:
+        if tt > t:
                     t=tt
                     v= v + p
                     print(v)
