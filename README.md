@@ -11,4 +11,4 @@
 [Script](https://github.com/b3ng0x/Side-Channel/blob/main/SCA.py)
 
 
-![Source](https://github.com/b3ng0x/Side-Channel/blob/main/cap.png?raw=true)
+![Source](https://github.com/b3ng0x/Side-Channel/blob/main/5-1.png?raw=true)
